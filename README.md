@@ -2,7 +2,7 @@
 
 This procedure shows how to create a **bootable** and **installable** Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
 
-## Prerequisites (GNU/Linux Debian/Ubuntu)
+## Prerequisites (GNU/Linux Debian)
 
 Install applications we need to build the environment.
 
