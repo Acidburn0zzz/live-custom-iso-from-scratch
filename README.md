@@ -1,4 +1,4 @@
-# How to create a custom Ubuntu live from scratch
+# How to create a custom iso live from scratch
 
 This procedure shows how to create a **bootable** and **installable** Ubuntu Live (along with the automatic hardware detection and configuration) from scratch.
 
